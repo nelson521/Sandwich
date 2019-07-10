@@ -10,7 +10,7 @@ $('.pButter').on('click', function() {
   // when this is clicked i want to write somwting on the h3
   alert('Peanut butter jelly time');
   pbj++
-  alert('You just had ' + pbj + ' peanut butter and jelly sandwichs.');
+  alert('You just had ' + pbj + ' peanut butter and jelly sandwichs..');
 });
 
 
